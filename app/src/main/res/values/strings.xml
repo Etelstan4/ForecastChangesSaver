@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ForecastChangesSaver</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_updating_checkbox">Updating data</string>
+    <string name="settings_updating_button">Force update</string>
+    <string name="settings_updated_toast">Updated</string>
+    <string name="welcome_welcome_text">Welcome to Weather Forecast History</string>
+    <string name="welcome_choose_text">Please choose a date to see a list of previous forecasts for that date</string>
+    <string name="welcome_choose_button">Choose Date</string>
+    <string name="welcome_settings_button">Settings</string>
+    <string name="preferences_update_key">update_weather</string>
+    <string name="forecasts_header">Previous forecasts on </string>
+</resources>
